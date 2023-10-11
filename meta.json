@@ -1,0 +1,6 @@
+{
+  "seeders": [
+    "insert-cars.js"
+  ],
+  "migrations": []
+}
